@@ -1,0 +1,10 @@
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\bin\Debug\Oefeningen Van inheritance.exe.config
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\bin\Debug\Oefeningen Van inheritance.exe
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\bin\Debug\Oefeningen Van inheritance.pdb
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\obj\Debug\Oefeningen Van inheritance.csprojAssemblyReference.cache
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\obj\Debug\Oefeningen_Van_inheritance.Form1.resources
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\obj\Debug\Oefeningen_Van_inheritance.Properties.Resources.resources
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\obj\Debug\Oefeningen Van inheritance.csproj.GenerateResource.cache
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\obj\Debug\Oefeningen Van inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\obj\Debug\Oefeningen Van inheritance.exe
+C:\Users\Timsp\source\repos\Oefeningen Van inheritance\Oefeningen Van inheritance\obj\Debug\Oefeningen Van inheritance.pdb
