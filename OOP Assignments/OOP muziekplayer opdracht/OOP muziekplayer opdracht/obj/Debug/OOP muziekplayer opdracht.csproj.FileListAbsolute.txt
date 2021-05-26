@@ -1,0 +1,20 @@
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\bin\Debug\OOP muziekplayer opdracht.exe.config
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\bin\Debug\OOP muziekplayer opdracht.exe
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\bin\Debug\OOP muziekplayer opdracht.pdb
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.csprojAssemblyReference.cache
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP_muziekplayer_opdracht.Form1.resources
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP_muziekplayer_opdracht.Properties.Resources.resources
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.csproj.GenerateResource.cache
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.csproj.CoreCompileInputs.cache
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.exe
+C:\Users\Timsp\source\repos\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.pdb
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\bin\Debug\OOP muziekplayer opdracht.exe.config
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\bin\Debug\OOP muziekplayer opdracht.exe
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\bin\Debug\OOP muziekplayer opdracht.pdb
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.csprojAssemblyReference.cache
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP_muziekplayer_opdracht.Form1.resources
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP_muziekplayer_opdracht.Properties.Resources.resources
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.csproj.GenerateResource.cache
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.csproj.CoreCompileInputs.cache
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.exe
+C:\Users\Timsp\Downloads\Semester2\OOP Assignments\OOP muziekplayer opdracht\OOP muziekplayer opdracht\obj\Debug\OOP muziekplayer opdracht.pdb
