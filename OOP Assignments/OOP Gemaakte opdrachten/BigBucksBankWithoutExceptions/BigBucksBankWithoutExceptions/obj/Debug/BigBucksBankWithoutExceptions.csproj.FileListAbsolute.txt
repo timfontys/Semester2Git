@@ -1,9 +1,0 @@
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\bin\Debug\BigBucksBankWithoutExceptions.exe.config
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\bin\Debug\BigBucksBankWithoutExceptions.exe
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\bin\Debug\BigBucksBankWithoutExceptions.pdb
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\obj\Debug\BigBucksBankWithoutExceptions.csprojAssemblyReference.cache
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\obj\Debug\BigBucksBankWithoutExceptions.Properties.Resources.resources
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\obj\Debug\BigBucksBankWithoutExceptions.csproj.GenerateResource.cache
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\obj\Debug\BigBucksBankWithoutExceptions.csproj.CoreCompileInputs.cache
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\obj\Debug\BigBucksBankWithoutExceptions.exe
-C:\Users\Timsp\Downloads\t-oer-oop2-master\Exceptions\BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions\obj\Debug\BigBucksBankWithoutExceptions.pdb
