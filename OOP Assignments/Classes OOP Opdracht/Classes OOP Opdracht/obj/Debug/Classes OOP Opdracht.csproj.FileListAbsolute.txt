@@ -1,0 +1,10 @@
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\bin\Debug\Classes OOP Opdracht.exe.config
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\bin\Debug\Classes OOP Opdracht.exe
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\bin\Debug\Classes OOP Opdracht.pdb
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\obj\Debug\Classes OOP Opdracht.csprojAssemblyReference.cache
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\obj\Debug\Classes_OOP_Opdracht.Form1.resources
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\obj\Debug\Classes_OOP_Opdracht.Properties.Resources.resources
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\obj\Debug\Classes OOP Opdracht.csproj.GenerateResource.cache
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\obj\Debug\Classes OOP Opdracht.csproj.CoreCompileInputs.cache
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\obj\Debug\Classes OOP Opdracht.exe
+C:\Users\Timsp\source\repos\Classes OOP Opdracht\Classes OOP Opdracht\obj\Debug\Classes OOP Opdracht.pdb

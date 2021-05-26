@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBucksBankWithoutExceptions", "BigBucksBankWithoutExceptions\BigBucksBankWithoutExceptions.csproj", "{C6FE8FE4-5DE1-4DE6-AE3E-36A68BADB5E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigBucksBankWitouthExeptionsUnitTests", "BigBucksBankWitouthExeptionsUnitTests\BigBucksBankWitouthExeptionsUnitTests.csproj", "{3BF43A76-BB7C-47DB-A86E-ADD97E4FD60F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6FE8FE4-5DE1-4DE6-AE3E-36A68BADB5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6FE8FE4-5DE1-4DE6-AE3E-36A68BADB5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6FE8FE4-5DE1-4DE6-AE3E-36A68BADB5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6FE8FE4-5DE1-4DE6-AE3E-36A68BADB5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BF43A76-BB7C-47DB-A86E-ADD97E4FD60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF43A76-BB7C-47DB-A86E-ADD97E4FD60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF43A76-BB7C-47DB-A86E-ADD97E4FD60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF43A76-BB7C-47DB-A86E-ADD97E4FD60F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEB96052-3004-47DE-9BC4-F7658FEED639}
+	EndGlobalSection
+EndGlobal
